@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="description" content="Example MetaDescription">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-</head>
+<footer>
+</footer>
 
-<body>
-  <header>
-  </header>
 </body>
 </html>
